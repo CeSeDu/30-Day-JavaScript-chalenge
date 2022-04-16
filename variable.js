@@ -7,11 +7,13 @@ undefined = tanımsız veri içeren değişken tipi
 null      = boş veri tipini tutan değişken.*/
 
 let firstName = "Sena"
+let lastName  = "durmus"
+let country   = "turkey"
+let city      = "konya"
 let age       = 19
-let isMarried = true
-let dadName   = " "
+let isMarried = false
 
-console.log(firstName, age,isMarried,dadName)
-
+let name = 'sena',
+    job = 'student'
 
 
